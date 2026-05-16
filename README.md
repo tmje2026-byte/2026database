@@ -5,6 +5,7 @@
 ## 目前狀態
 
 - GitHub repo：<https://github.com/tmje2026-byte/2026database>
+- GitHub Pages：<https://tmje2026-byte.github.io/2026database/>
 - Firebase project：`my-teaching-tools-31d95`
 - Firestore Database：已建立
 - Firestore rules：已部署

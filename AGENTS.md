@@ -44,7 +44,7 @@ Obsidian vault：未設定
 
 ## 主要檔案
 
-入口檔：待建立
+入口檔：`index.html`
 設定檔：
 - `firebase.json`
 - `.firebaserc`
@@ -53,7 +53,7 @@ Obsidian vault：未設定
 
 部署位置：
 - Firestore 規則：Firebase project `my-teaching-tools-31d95`
-- GitHub Pages：未設定
+- GitHub Pages：https://tmje2026-byte.github.io/2026database/
 
 ## 不要做
 
