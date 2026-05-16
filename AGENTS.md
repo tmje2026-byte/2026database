@@ -10,9 +10,9 @@ GitHub repo：https://github.com/tmje2026-byte/2026database
 
 ## Obsidian 對應筆記
 
-Obsidian vault：未設定
-專案駕駛艙：未設定
-收工時優先更新：設定 Obsidian vault 後再啟用
+Obsidian vault：C:\Users\User\Documents\Obsidian Vault
+專案駕駛艙：2026database/專案工作流程.md
+收工時優先更新：同上
 
 > 注意：專案駕駛艙應該是 Obsidian vault 裡的一篇筆記，不是工作資料夾裡的 Markdown 檔。
 
@@ -20,7 +20,7 @@ Obsidian vault：未設定
 
 - 工作桌：G:\我的雲端硬碟\2026database
 - GitHub：https://github.com/tmje2026-byte/2026database
-- Obsidian：未設定
+- Obsidian：C:\Users\User\Documents\Obsidian Vault + 2026database/專案工作流程.md
 - Firebase：my-teaching-tools-31d95
 
 ## 同步規則
