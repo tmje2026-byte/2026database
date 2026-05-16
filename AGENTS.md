@@ -5,7 +5,7 @@
 專案名稱：2026database
 專案用途：班級互動工具與 Firebase Firestore 資料庫工作區
 主要工作目錄：G:\我的雲端硬碟\2026database
-GitHub repo：待建立
+GitHub repo：https://github.com/tmje2026-byte/2026database
 預設 branch：main
 
 ## Obsidian 對應筆記
@@ -19,7 +19,7 @@ Obsidian vault：未設定
 ## 工作桌 + 三個家
 
 - 工作桌：G:\我的雲端硬碟\2026database
-- GitHub：待建立
+- GitHub：https://github.com/tmje2026-byte/2026database
 - Obsidian：未設定
 - Firebase：my-teaching-tools-31d95
 
